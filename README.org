@@ -2,9 +2,8 @@
 
 Common Lisp portmanteau library
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/traut/cl-portmanteau.git   |
-| commit  | a395632  |
-| systems | cl-portmanteau |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/traut/cl-portmanteau.git |
+| commit  | a395632                                         |
+| systems | (portmanteau)                                   |
+|---------+-------------------------------------------------|
